@@ -101,7 +101,13 @@ The C# child therefore tries multiple parsing strategies (`int`, `long`, hex str
 
 ---
 
-## 8. License
+## 8. Using
+
+![Example of using the apps](https://i.imgur.com/OCNiiUG.png)
+
+---
+
+## 9. License
 
 Released under the **MIT License** – see `LICENSE` for details.  
 Icons are property of their respective owners.
